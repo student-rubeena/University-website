@@ -340,3 +340,9 @@ h3{
     box-sizing: border-box;
     width: 80%;
 }
+
+.icons{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
